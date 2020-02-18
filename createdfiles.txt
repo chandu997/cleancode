@@ -1,0 +1,4 @@
+com\epam\mavenpro\tasks.class
+com\epam\mavenpro\simple interest.class
+com\epam\mavenpro\compound interest.class
+com\epam\mavenpro\construction.class
